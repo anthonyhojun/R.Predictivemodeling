@@ -1,6 +1,6 @@
 # R.Predictivemodeling-
 
-Click here to view the report: 
+Download the Report.html or view it online: 
 http://htmlpreview.github.io/?https://github.com/anthonyhojun/R.Predictivemodeling/blob/master/Report.html
 
 Random forest with Kaggle's Titanic dataset
